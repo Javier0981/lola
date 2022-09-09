@@ -20,7 +20,7 @@ enemis[i].plata();
       exit();
     }
 }
-
+// no se que poner
 jugador.control();
 
 
