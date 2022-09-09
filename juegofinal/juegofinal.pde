@@ -10,7 +10,7 @@ size(800,800);
  enemis[i]= new npc(x,y,random(100,200),10,10);
  }
 jugador = new npc(50,550,50,70,10);
-
+//cualquier cosa
 }
 void draw(){
  background(0);
