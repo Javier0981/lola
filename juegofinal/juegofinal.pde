@@ -23,6 +23,6 @@ enemis[i].plata();
 // no se que poner
 jugador.control();
 
-
+//todo bien en casa?
 
 }
